@@ -2,7 +2,7 @@
 WebApplication for Java 
 
 
-<img src="https://github.com/william-carvalho/spring-boot-crud/blob/master/images/diagrama.png" alt="cliente">
+<img src="https://github.com/william-carvalho/spring-boot-crud/blob/master/images/diagrama.jpeg" alt="cliente">
 
 > API REST responsável por criar, ler, atualizar e deletar objetos do tipo: cliente e produto, criando a relação entre estes na forma de um pedido.
 
